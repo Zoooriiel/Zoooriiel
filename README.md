@@ -55,9 +55,8 @@
 
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-</p>
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
