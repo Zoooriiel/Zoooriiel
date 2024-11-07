@@ -5,24 +5,43 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hi, I'm Gina! <br> A passionate full-stack developer from Singapore 
+        Hi, I'm Gina!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
       </h1>
     </summary>
   </ul>
 </div>
-<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
 
+<p align="center">
+  ☕ I'm a passionate full-stack developer from Singapore
+</p>
 
-🔭 I'm part of the **Generation Full-Stack Developer course** and enjoying every bit of the learning process! ✨
+<p align="center">
+  🔭 I'm part of the <strong>Generation Full-Stack Developer course</strong> and enjoying every bit of the learning process! ✨
+</p>
 
-🌱 I'm currently diving deeper into **Java** to build more robust and dynamic applications. 💻☕
+<p align="center">
+  💻 I'm currently diving deeper into <strong>Java</strong> to build more robust and dynamic applications. 
+</p>
 
-👨‍💻 You can find all of my projects [here](link). Feel free to take a look!
+<p align="center">
+  👨‍💻 You can find all of my projects <a href="link">here</a>. Feel free to take a look!
+</p>
 
-📫 Drop me an email at **[Zoooriiel@gmail.com](mailto:Zoooriiel@gmail.com)**. I'm always open to chat or collaborate! 📬
+<p align="center">
+  📫 Drop me an email at <strong><a href="mailto:Zoooriiel@gmail.com">Zoooriiel@gmail.com</a></strong>. I'm always open to chat or collaborate!
+</p>
 
-⚡ **Fun Fact**: I love to travel and do photography. 📸🌍
+<p align="center">
+  📸🌍 <strong>Fun Fact</strong>: I love to travel and do photography. 
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Coding" width="350" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif"> 
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
