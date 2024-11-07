@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  🔭 I'm part of the <strong>Generation Full-Stack Developer course</strong> and enjoying every bit of the learning process! ✨
+  ✨ I'm part of the <strong>Generation Full-Stack Developer course</strong> and enjoying every bit of the learning process! 
 </p>
 
 <p align="center">
