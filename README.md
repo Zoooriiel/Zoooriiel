@@ -27,6 +27,7 @@
 <p align="center">
   📸🌍 <strong>Fun Fact</strong>: I love to travel and do photography. 
 </p>
+<br>
 <p align="center">
   👨‍💻 You can find all of my projects <a href="link">here</a>. Feel free to take a look!
 </p>
