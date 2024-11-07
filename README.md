@@ -7,6 +7,18 @@
 <h3 align="center">A passionate full-stack developer from Singapore 😊</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
 
+## 🌟 About Me
+
+🔭 **Currently Working On**: I'm part of the **Generation Full-Stack Developer course** and enjoying every bit of the learning process! ✨
+
+🌱 **Currently Learning**: Diving deeper into **Java** to build more robust and dynamic applications. 💻☕
+
+👨‍💻 **Projects**: You can find all of my work [here](link). Feel free to take a look!
+
+📫 **How to Reach Me**: Drop me an email at **[Zoooriiel@gmail.com](mailto:Zoooriiel@gmail.com)**. I'm always open to chat or collaborate! 📬
+
+⚡ **Fun Fact**: I love to travel and capture the world through my lens in my free time. 📸🌍
+
 
 🔭 I’m currently working on **the Generation Full-Stack developer course**
 
