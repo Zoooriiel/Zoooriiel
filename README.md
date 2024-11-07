@@ -41,7 +41,7 @@
 <p align="center">
   <img alt="Coding" width="350" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif"> 
 </p>
-
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
