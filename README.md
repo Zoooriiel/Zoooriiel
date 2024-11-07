@@ -19,7 +19,7 @@
   ✨ I'm part of the <strong>Generation Full-Stack Developer course</strong> and enjoying every bit of the learning process! 
 </p>
 <p align="center">
-  📚 I'm passionate about learning new languages, whether spoken or programming, and discovering new cultures. 
+  📚 I love to study new languages, whether spoken or programming, and discovering new cultures. 
 </p>
 <p align="center">
   💻 I'm currently learning <strong>Java</strong>. 
