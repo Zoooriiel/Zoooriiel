@@ -3,7 +3,7 @@
 🔭 I’m currently working on the Generation Full-Stack developer course<br>🌱 I’m currently learning Java<br>⚡ I like to travel and do photography in my free time
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_onefivetwocm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gina-l-hh) 
 
 # 💻 Tech Stack
