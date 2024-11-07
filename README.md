@@ -23,8 +23,8 @@
 <br>
 
 ### 💻 Currently Learning:
-- **Java**
-- **Spring Boot**
+- Java
+- Spring Boot
 
 ### 🌱 Personal Interests:
 - I do **photography**, mainly portraits. 📸
