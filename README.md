@@ -9,26 +9,16 @@
 
 ## 🌟 About Me
 
-🔭 **Currently Working On**: I'm part of the **Generation Full-Stack Developer course** and enjoying every bit of the learning process! ✨
+🔭 I'm part of the **Generation Full-Stack Developer course** and enjoying every bit of the learning process! ✨
 
-🌱 **Currently Learning**: Diving deeper into **Java** to build more robust and dynamic applications. 💻☕
+🌱 I'm currently diving deeper into **Java** to build more robust and dynamic applications. 💻☕
 
-👨‍💻 **Projects**: You can find all of my work [here](link). Feel free to take a look!
+👨‍💻 You can find all of my projects [here](link). Feel free to take a look!
 
-📫 **How to Reach Me**: Drop me an email at **[Zoooriiel@gmail.com](mailto:Zoooriiel@gmail.com)**. I'm always open to chat or collaborate! 📬
+📫 Drop me an email at **[Zoooriiel@gmail.com](mailto:Zoooriiel@gmail.com)**. I'm always open to chat or collaborate! 📬
 
-⚡ **Fun Fact**: I love to travel and capture the world through my lens in my free time. 📸🌍
+⚡ **Fun Fact**: I love to travel and do photography. 📸🌍
 
-
-🔭 I’m currently working on **the Generation Full-Stack developer course**
-
-🌱 I’m currently learning **Java**
-
-👨‍💻 All of my projects are available at [here](link)
-
-📫 How to reach me **Zoooriiel@gmail.com**
-
-⚡ Fun fact **I like to travel and do photography in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
