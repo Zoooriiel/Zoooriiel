@@ -21,7 +21,11 @@
 </p>
 
 <p align="center">
-  💻 I'm currently diving deeper into <strong>Java</strong> to build more robust and dynamic applications. 
+  📚 I'm passionate about learning new languages, whether spoken or programming, and discovering new cultures. 
+</p>
+
+<p align="center">
+  💻 I'm currently learning <strong>Java</strong>. 
 </p>
 
 <p align="center">
