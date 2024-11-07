@@ -1,9 +1,11 @@
-![MasterHead](https://i.pinimg.com/originals/8e/c6/f1/8ec6f1630c1f40394878290b96c74e6f.gif)
+<img src="https://i.pinimg.com/originals/8e/c6/f1/8ec6f1630c1f40394878290b96c74e6f.gif" alt="MasterHead" style="width: 1000px; height: 450px; max-height: 200px;">
+
+
 ---
 
 <h1 align="center">Hi 👋, I'm Gina</h1>
-<h3 align="center">A passionate full-stack from Singapore</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/anime-computer-typing-fast-typing-anime-fast-computer-typing-gif-24911240">
+<h3 align="center">A passionate full-stack developer from Singapore</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoooriiel&label=Profile%20views&color=0e75b6&style=flat" alt="zoooriiel" /> </p>
 
