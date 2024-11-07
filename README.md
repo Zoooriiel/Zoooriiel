@@ -1,13 +1,18 @@
 <img src="https://i.pinimg.com/originals/8e/c6/f1/8ec6f1630c1f40394878290b96c74e6f.gif" alt="MasterHead" style="width: 1000px; height: 300px; max-height: 200px;">
 
 
----
-
-<h1 align="center">Hi 👋, I'm Gina</h1>
-<h3 align="center">A passionate full-stack developer from Singapore 😊</h3>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Hi, I'm Gina!
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+      </h1>
+    </summary>
+  </ul>
+</div>
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
 
-## 🌟 About Me
 
 🔭 I'm part of the **Generation Full-Stack Developer course** and enjoying every bit of the learning process! ✨
 
