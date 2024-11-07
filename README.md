@@ -23,7 +23,7 @@
 - **Spring Boot**
 
 ### 🌱 Personal Interests:
-- I do **photography**, mainly portraits.
+- I do **photography**, mainly portraits. 📸
 - Love traveling and immersing myself in new cultures 🌍
 - Always learning new languages! Currently working on Korean and Spanish. 🗣️
 - Playing video games — especially MOBA, survival horror and puzzle games. 🎮
