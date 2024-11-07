@@ -25,7 +25,7 @@
   💻 I'm currently learning <strong>Java</strong>. 
 </p>
 <p align="center">
-  📸🌍 <strong>Fun Fact</strong>: I love to travel and do photography. 
+  📸🌍 I love to travel and do photography. 
 </p>
 <br>
 <p align="center">
