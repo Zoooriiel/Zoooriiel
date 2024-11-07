@@ -25,14 +25,15 @@
   💻 I'm currently learning <strong>Java</strong>. 
 </p>
 <p align="center">
+  📸🌍 <strong>Fun Fact</strong>: I love to travel and do photography. 
+</p>
+<p align="center">
   👨‍💻 You can find all of my projects <a href="link">here</a>. Feel free to take a look!
 </p>
 <p align="center">
   📫 Drop me an email at <strong><a href="mailto:Zoooriiel@gmail.com">Zoooriiel@gmail.com</a></strong>. I'm always open to chat or collaborate!
 </p>
-<p align="center">
-  📸🌍 <strong>Fun Fact</strong>: I love to travel and do photography. 
-</p>
+
 
 <br>
 
