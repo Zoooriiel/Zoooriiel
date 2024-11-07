@@ -33,22 +33,20 @@
 - Learning **Java** to strengthen my backend development skills and improve scalability.
 
 <br>
-
- <p align="center">
-    <img alt="Coding" width="350" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
-</p>
-
-<br style="clear: both;">
-
-
+<br>
 <p align="center">
   👨‍💻 You can find all of my projects <a href="link">here</a>. Feel free to take a look!
 </p>
 <p align="center">
   📫 Drop me an email at <strong><a href="mailto:Zoooriiel@gmail.com">Zoooriiel@gmail.com</a></strong>. I'm always open to chat or collaborate!
 </p>
+<br>
+ <p align="center">
+    <img alt="Coding" width="350" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
+</p>
 
 <br>
+
 
 
 ### Languages and Tools:
