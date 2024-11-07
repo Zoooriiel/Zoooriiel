@@ -14,9 +14,11 @@
 
 <h2>About Me</h2>
 
-<p align="left">
-  I'm a passionate full-stack developer from Singapore. ✨ I'm currently part of the <strong>Generation Full-Stack Developer course</strong> and enjoying every bit of the learning process!
+<p align="center">
+  I'm a passionate full-stack developer from Singapore. 📍🦁 <br> I'm currently part of the <strong>Generation Full-Stack Developer course</strong> and enjoying every bit of the learning process!
 </p>
+
+<br>
 
 ### 💻 Currently Learning:
 - **Java**
