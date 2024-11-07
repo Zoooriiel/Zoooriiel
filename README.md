@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Gina</h1>
 <h3 align="center">A passionate full-stack developer from Singapore 😊</h3>
-<img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
 
 
 - 🔭 I’m currently working on **the Generation Full-Stack developer course**
