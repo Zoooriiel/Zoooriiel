@@ -18,6 +18,7 @@
   I'm a passionate full-stack developer from Singapore. 📍🦁 <br> I'm currently part of the <strong>Generation Full-Stack Developer course</strong> and enjoying every bit of the learning process!
 </p>
 
+<br>
 
 ### 💻 Currently Learning:
 - **Java**
