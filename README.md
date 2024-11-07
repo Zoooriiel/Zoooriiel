@@ -5,7 +5,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hi, I'm Gina!
+        Hi, I'm Gina! <br> A passionate full-stack developer from Singapore 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
       </h1>
     </summary>
