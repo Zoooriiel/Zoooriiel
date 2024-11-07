@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/8e/c6/f1/8ec6f1630c1f40394878290b96c74e6f.gif" alt="MasterHead" style="width: 1000px; height: 400px; max-height: 200px;">
+<img src="https://i.pinimg.com/originals/8e/c6/f1/8ec6f1630c1f40394878290b96c74e6f.gif" alt="MasterHead" style="width: 1000px; height: 350px; max-height: 200px;">
 
 
 ---
