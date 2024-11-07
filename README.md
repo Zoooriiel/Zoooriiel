@@ -8,15 +8,15 @@
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/tNYus4tK5dEAAAAd/anime-computer.gif">
 
 
-- 🔭 I’m currently working on **the Generation Full-Stack developer course**
+🔭 I’m currently working on **the Generation Full-Stack developer course**
 
-- 🌱 I’m currently learning **Java**
+🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [here](link)
+👨‍💻 All of my projects are available at [here](link)
 
-- 📫 How to reach me **Zoooriiel@gmail.com**
+📫 How to reach me **Zoooriiel@gmail.com**
 
-- ⚡ Fun fact **I like to travel and do photography in my free time**
+⚡ Fun fact **I like to travel and do photography in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
